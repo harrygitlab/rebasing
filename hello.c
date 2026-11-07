@@ -2,6 +2,6 @@
 int main()
 {
 printf('Hello world:');
-prinf('pd:');
+prinf('pda:');
 }
 return 0;
